@@ -1,3 +1,1 @@
-var name = prompt('вы кто?', 'Вася');
-
-alert('привет ' + name)
+alert("это ветка patch1")
