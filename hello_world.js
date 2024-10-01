@@ -8,3 +8,8 @@ function pay(total){
 
 alert("это ветка patch1")
 
+
+function patch1(word){
+    console.log(word)
+}
+
